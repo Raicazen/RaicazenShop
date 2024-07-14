@@ -1,0 +1,30 @@
+----- COLORS USED -----
+
+Traditional Royal blue
+Hex #002366
+RGB 0, 35, 102
+CMYK 100, 66, 0, 60 
+
+ White
+Hex #ffffff
+RGB 255, 255, 255
+CMYK 0, 0, 0, 0
+
+ Black
+Hex #000000 
+RGB 0, 0, 0
+CMYK 0, 0, 0, 1
+
+ Chrome
+Hex #DBE2E9
+RGB 219,226,233
+CMYK 11,3,0,0
+
+ Royal Blue
+Hex #5576D1
+RGB 85,118,209
+CMYK 71,51,0,0
+
+
+GIF: https://www.bing.com/images/search?view=detailV2&ccid=LnOSvWkX&id=604BE4E08E0E8529E5F71202CC268A664761F679&thid=OIP.LnOSvWkXLLZPtkjWpau4MAHaEK&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fxTiTnxpQ3ghPiB2Hp6%2fgiphy.gif&exph=281&expw=500&q=blue+black+white+bacground+gif&simid=608024604985602436&FORM=IRPRST&ck=8B3226A183B59B86B08B4D065C6F992E&selectedIndex=27&ajaxhist=0&ajaxserp=0
+LINK: https://colorcodes.io/list-of-colors-a-to-z/
